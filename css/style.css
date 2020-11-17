@@ -1,0 +1,40 @@
+*{
+    margin:1rem;
+    font-family: cursive;
+}
+tbody{
+    margin:auto;
+    vertical-align: middle;
+}
+table{
+    margin:auto;
+    vertical-align: middle;
+}
+label{
+    margin-left:5rem;
+}
+div{
+    border: 1px solid;
+    margin:auto;
+    padding: auto;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+    vertical-align: middle;
+}
+button{
+    height:auto;
+}
+div button{
+    margin-left: 6rem;
+}
+input{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
